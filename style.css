@@ -103,7 +103,8 @@ h1 {
 }
 
 .service {
-	background-image: url(assets/img-banner@2x.png);
+	/*Was a 2x*/
+	background-image: url(assets/20240905_135640.jpg);  
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -117,7 +118,7 @@ h1 {
 }
 
 .blog {
-	background-image: url(assets/banner-texture@2x.png);
+	background-image: url(assets/20240905_135640.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
