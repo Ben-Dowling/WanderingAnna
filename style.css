@@ -102,13 +102,12 @@ h1 {
 	padding: 20px;
 }
 
-.service {
-	/*Was a 2x*/
+/* .service {
 	background-image: url(assets/20231111_husky.jpg);  
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
-}
+} */
 
 .about {
 	background-image: url(assets/20231111_husky.jpg);
@@ -118,26 +117,26 @@ h1 {
 }
 
 .blog {
-	background-image: url(assets/20231111_husky.jpg);
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-
-}
-
-.contact {
-	background-image: url(assets/20231111_husky.jpg);
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-}
-
-.faq {
 	background-image: url(assets/20240905_storr_cliff.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
+
 }
+
+/* .contact {
+	background-image: url(assets/20231111_husky.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+} */
+
+/* .faq {
+	background-image: url(assets/20240905_storr_cliff.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+} */
 
 .contact-form {
 	font-family: "Arial", "Helvetica", sans-serif;
