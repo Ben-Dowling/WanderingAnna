@@ -8,7 +8,7 @@ body {
 }
 
 header {
-	background-image: url(assets/20240905_135640.jpg);
+	background-image: url(assets/20240511_sea.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -104,21 +104,21 @@ h1 {
 
 .service {
 	/*Was a 2x*/
-	background-image: url(assets/20231111_105732.JPG);  
+	background-image: url(assets/20231111_husky.jpg);  
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
 }
 
 .about {
-	background-image: url(assets/20231111_105732.JPG);
+	background-image: url(assets/20231111_husky.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
 }
 
 .blog {
-	background-image: url(assets/20231111_105732.JPGg);
+	background-image: url(assets/20231111_husky.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -126,14 +126,14 @@ h1 {
 }
 
 .contact {
-	background-image: url(assets/20231111_105732.JPG);
+	background-image: url(assets/20231111_husky.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
 }
 
 .faq {
-	background-image: url(assets/img-prop-type@2x.jpg);
+	background-image: url(assets/20240905_storr_cliff.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -193,10 +193,10 @@ input[type=number]::-webkit-inner-spin-button,
   (-webkit-min-device-pixel-ratio: 2),
   (min-resolution: 192dpi) {
   	.blog {
-    	background-image: url(assets/banner-texture@2x.png) !important;
+    	background-image: url(assets/20240511_coastal.jpg) !important;
   	}
 
   	.faq {
-    	background-image: url(assets/img-prop-type@2x.jpg) !important;
+    	background-image: url(assets/20240511_coastal.jpg) !important;
   	}
 }
